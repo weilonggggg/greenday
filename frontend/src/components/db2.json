@@ -1,0 +1,27 @@
+{
+  "Green": {
+    "name": "Green Tote Bag",
+    "image": "green",
+    "price": "$10"
+  },
+  "Red": {
+    "name": "Red Tote Bag",
+    "image": "green",
+    "price": "$20"
+  },
+  "Blue": {
+    "name": "Blue Tote Bag",
+    "image": "green",
+    "price": "$30"
+  },
+  "Yellow": {
+    "name": "Yellow Tote Bag",
+    "image": "green",
+    "price": "$40"
+  },
+  "Purple": {
+    "name": "Purple Tote Bag",
+    "image": "green",
+    "price": "$50"
+  }
+}
